@@ -611,7 +611,7 @@
         </option>
         <option>
           <name>OOCOutputFile</name>
-          <state></state>
+          <state>template.srec</state>
         </option>
         <option>
           <name>OOCCommandLineProducer</name>
@@ -730,7 +730,7 @@
         </option>
         <option>
           <name>IlinkIcfFile</name>
-          <state>D:\stm32f103\Config\stm32f10x_flash.icf</state>
+          <state>$PROJ_DIR$\..\Config\stm32f10x_flash.icf</state>
         </option>
         <option>
           <name>IlinkIcfFileSlave</name>

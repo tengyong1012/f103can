@@ -1,14 +1,14 @@
-"D:\stm32f103\Fwlib\src\stm32f10x_dbgmcu.c"
+"D:\stm32f103can\proj\f103can\stm32f103\Fwlib\src\stm32f10x_dbgmcu.c"
 -std=c99
 -ferror-limit=100
 -I
-D:\stm32f103\Project\..\Fwlib\inc
+D:\stm32f103can\proj\f103can\stm32f103\Project\..\Fwlib\inc
 -I
-D:\stm32f103\Project\..\CMSIS\Startup
+D:\stm32f103can\proj\f103can\stm32f103\Project\..\CMSIS\Startup
 -I
-D:\stm32f103\Project\..\CMSIS\System
+D:\stm32f103can\proj\f103can\stm32f103\Project\..\CMSIS\System
 -I
-D:\stm32f103\Project\..\User
+D:\stm32f103can\proj\f103can\stm32f103\Project\..\User
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\CMSIS\Include
 -I
@@ -16,13 +16,13 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc\c
 -I
-D:\stm32f103\Fwlib\inc
+D:\stm32f103can\proj\f103can\stm32f103\Fwlib\inc
 -I
-D:\stm32f103\CMSIS\Startup
+D:\stm32f103can\proj\f103can\stm32f103\CMSIS\Startup
 -I
-D:\stm32f103\CMSIS\System
+D:\stm32f103can\proj\f103can\stm32f103\CMSIS\System
 -I
-D:\stm32f103\User
+D:\stm32f103can\proj\f103can\stm32f103\User
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\CMSIS\Include
 -DUSE_PERIPH_DRIVER=1
